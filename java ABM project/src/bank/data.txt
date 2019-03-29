@@ -1,0 +1,13 @@
+JJX12,Jones,Jessica,direct banking,85169.00,15 Old Hope, Kgn 5,KSA,1-876-893-5197,Marcelo,118214305,5054040,1998-11-16,4455668800113355,1234 
+JBX09,Bond,James,savings,15984789.74,Main St., Oracabessa,St. Mary,1-876-987-5583,Dani Alves,132332876,2332138,1995-12-24,1122334477889966,2233
+SHW34,Holmes,Sherlock,investment,6489546.0,Brigade St., Santa Cruz,St. Elizabeth,1-876-759-4441,Steph Curry,123118873,7788345,1995-08-26,9098800888234567,5555
+THW03, Hardy,Thomas,investment,6548.40,Brigade St., Santa Cruz,St. Elizabeth,1-876-345-9703,Lebron James,111155580,1212127,1992-07-18,8888777713456500,9090
+NDW58,Drew,Nancy,investment,48827.50,12 High St., Black River,St. Elizabeth,1-876-859-8089,Ben Simmons,123334445,9899123,1988-03-27,3310124476543276,9123
+JBC85,Bourne,Jason,direct banking,416.0,9 Fearon Ave, May Pen,Clarendon,1-876-424-4743,Gareth Bale,136895432,8188119,1988-10-15,1001300045008348,8118
+HDW05,Dent,Harvey,savings,4658416.0,144 Barnett St., Montego Bay,St. James,1-876-484-6108,Christiano Ronaldo,144556699,4321793,1978-05-09,1221399945118365,8908
+PCW44,Coulson,Phil,savings,7436546.0,Propsper Rd., Lucea,Hanover,1-876-598-2378,Diego Costa,123556782,9881006,1990-11-24,3333000013490524,4356
+HWA12,Huwawei Jamaica,Shenzen Telecoms Caribbean Ltd.,chequing,145689214.35,14 Constant Sprint Road, Kgn 10,Kingston and St. Andrew,1-876-633-1859 1-876-631-5587,Willian Borges,017891234,9087512,5555000013006500,8245
+DIG01,Digicel,Mossel Jamaica Ltd.,investment,3245455249.75,15 Ocean Boulevard, Kingston,Kingston and St. Andrew,1-876-633-1000 1-876-631-5000,David Luiz,059873456,34560129,8800907713456588,1113
+WUU88,Western Photo Ltd.,Western Photo Ltd.,chequing,2586492.09,8 Main Street, Savannah-la-mar,Westmoreland,1-876-945-6688 1-876-945-6689,Eden Hazard,021348767,8762432,1190877665522314,2134 
+SHA47,Sharkie\'s Seafood Restaurant,Sharkie\'s Seafood Restaurant,chequing,14340048.93,Howard Cook Boulevard, Montego Bay,St. James, 1-876-954-8469,Lionel Messi,012813562,2347793,5943876474676418,2138 
+KPK24,Sassy Super Salon,Emily Ramson t/a Sassy Super Salon,chequing,486975.00,Chudleigh District, Christiana,Manchester,1-876-355-3534,Curtis Jackson,012344567,2349860,8102983745601834,8980 
